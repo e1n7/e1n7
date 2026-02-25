@@ -23,3 +23,8 @@ Dedicated BSIT student passionate about technology and helping others succeed. S
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/e1n7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=e1n7&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<p><a href="https://github.com/e1n7/Ban-Checker">📌 Ban-Checker</a></p>
+<a href="https://github.com/e1n7/Ban-Checker"><img src="https://wasmer.io/_next/image?url=https%3A%2F%2Fscreenshots.wasmer.io%2Frenders%2F2026%2F02%2F04%2F9yhyi3cno7z6_069834a6-4cee-783d-8000-98de172226a3.png&w=1920&q=75" width="400" /></a>
