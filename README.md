@@ -7,7 +7,6 @@ Aspiring Web Developer
 Dedicated BSIT student passionate about technology and helping others succeed. Skilled in web development, online tools, and efficient virtual assistance. Eager to support busy professionals with scheduling, research, content management, and tech support.
 
 * 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [Portfolio](http://e1n7.github.io/Portfolio/)
 * ✉️  You can contact me at [sef81473@gmail.com](mailto:sef81473@gmail.com)
 * 🚀  I'm currently working on [Task-Manager](http://e1n7.github.io/Task-Manager/)
 * 🧠  I'm currently learning back-end development
