@@ -74,10 +74,13 @@ const flint = {
 
 ## 🤝 Connect With Me
 
+Find me on [LinkedIn](https://www.linkedin.com/in/flint-nacor-76b32a398/) and [Stack Overflow](https://stackoverflow.com/users/32415994/sef).
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/e1n7)
-[![Email](https://img.shields.io/badge/GitHub-e1n7-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/e1n7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flint-nacor-76b32a398/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32415994/sef)
 
 </div>
 
