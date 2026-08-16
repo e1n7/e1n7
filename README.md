@@ -74,8 +74,6 @@ const flint = {
 
 ## 🤝 Connect With Me
 
-Find me on [LinkedIn](https://www.linkedin.com/in/flint-nacor-76b32a398/) and [Stack Overflow](https://stackoverflow.com/users/32415994/sef).
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/e1n7)
