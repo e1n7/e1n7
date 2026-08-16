@@ -1,4 +1,4 @@
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663143057247/JcONaEtKULwEPOGF.png" alt="Flint Joseph C. Nacor — Web Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/e1n7/e1n7/main/header_banner.png" alt="Flint Joseph C. Nacor — Web Developer" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+I'm+Flint+%F0%9F%91%8B;Building+practical+web+tools;JS+%7C+TS+%7C+Web+Dev+%F0%9F%9A%80&font=Fira+Code&size=21&duration=3000&pause=800&color=58a6ff&center=true&width=560&height=40)](https://git.io/typing-svg)
 
@@ -68,7 +68,7 @@ const flint = {
 
 </div>
 
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663143057247/nPmEFNLjcZjRAhUK.png" alt="Thanks for stopping by" width="100%"/>
+<img src="https://raw.githubusercontent.com/e1n7/e1n7/main/footer_banner.png" alt="Thanks for stopping by" width="100%"/>
 
 <div align="center">
 
